@@ -1,0 +1,95 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "psycopg2 >=2.9.7,<2.9.8.0a0",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/home/mamun/miniconda3/pkgs/psycopg2-binary-2.9.7-pyhd8ed1ab_1",
+  "features": "",
+  "files": [
+    "lib/python3.1/site-packages/psycopg2_binary-2.9.7.dist-info/INSTALLER",
+    "lib/python3.1/site-packages/psycopg2_binary-2.9.7.dist-info/METADATA",
+    "lib/python3.1/site-packages/psycopg2_binary-2.9.7.dist-info/RECORD",
+    "lib/python3.1/site-packages/psycopg2_binary-2.9.7.dist-info/REQUESTED",
+    "lib/python3.1/site-packages/psycopg2_binary-2.9.7.dist-info/WHEEL",
+    "lib/python3.1/site-packages/psycopg2_binary-2.9.7.dist-info/direct_url.json",
+    "lib/python3.1/site-packages/psycopg2_binary-2.9.7.dist-info/top_level.txt"
+  ],
+  "fn": "psycopg2-binary-2.9.7-pyhd8ed1ab_1.conda",
+  "license": "LGPL-3.0-or-later",
+  "license_family": "LGPL",
+  "link": {
+    "source": "/home/mamun/miniconda3/pkgs/psycopg2-binary-2.9.7-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "0212a5c5ae1ab578853364bfc5d9f657",
+  "name": "psycopg2-binary",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/mamun/miniconda3/pkgs/psycopg2-binary-2.9.7-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/psycopg2_binary-2.9.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/psycopg2_binary-2.9.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0d869c32d43f08f5ef5ccccc981a0d509d0b4fa79560b6579bc79707572442f5",
+        "sha256_in_prefix": "0d869c32d43f08f5ef5ccccc981a0d509d0b4fa79560b6579bc79707572442f5",
+        "size_in_bytes": 202
+      },
+      {
+        "_path": "site-packages/psycopg2_binary-2.9.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "450a515d80043721ba1e2fde6cc32d364be7333ee0b407f1319df11b428609ef",
+        "sha256_in_prefix": "450a515d80043721ba1e2fde6cc32d364be7333ee0b407f1319df11b428609ef",
+        "size_in_bytes": 628
+      },
+      {
+        "_path": "site-packages/psycopg2_binary-2.9.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/psycopg2_binary-2.9.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/psycopg2_binary-2.9.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "1556f48ff993f99c36e3c005b82091fdbee68eaeefe2c37e060ce59bbd13f38c",
+        "sha256_in_prefix": "1556f48ff993f99c36e3c005b82091fdbee68eaeefe2c37e060ce59bbd13f38c",
+        "size_in_bytes": 126
+      },
+      {
+        "_path": "site-packages/psycopg2_binary-2.9.7.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "psycopg2-binary",
+  "sha256": "5d82cb8b90daff6c12a4b6e0848fd32172522d82ceb5f093bfd55bfec09b3797",
+  "size": 9725,
+  "subdir": "noarch",
+  "timestamp": 1697059445486,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/psycopg2-binary-2.9.7-pyhd8ed1ab_1.conda",
+  "version": "2.9.7"
+}

@@ -1,0 +1,11 @@
+prefix=/media/mamun/Dev/E_Lab/Dev/WebDev/flaskintro/flaskintro_env
+exec_prefix=/media/mamun/Dev/E_Lab/Dev/WebDev/flaskintro/flaskintro_env
+libdir=/media/mamun/Dev/E_Lab/Dev/WebDev/flaskintro/flaskintro_env/lib
+includedir=/media/mamun/Dev/E_Lab/Dev/WebDev/flaskintro/flaskintro_env/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
